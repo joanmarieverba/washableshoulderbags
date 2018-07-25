@@ -1,0 +1,22 @@
+body {
+  font-family: Roboto;
+}
+
+.btn {
+  border-radius: 0;
+}
+
+.footer-center {
+  color:goldenrod;
+  font-weight: bold;
+  text-align: center;
+}
+
+.titleStyle {
+  text-align: center;
+  background-color: azure;
+}
+
+.vspace {
+  margin-top: 4px;
+}
