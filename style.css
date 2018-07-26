@@ -12,6 +12,10 @@ body {
   text-align: center;
 }
 
+.lmargin {
+  margin-left: 2vw;
+}
+
 .titleStyle {
   text-align: center;
   background-color: azure;
