@@ -6,6 +6,10 @@ body {
   border-radius: 0;
 }
 
+.cpink {
+  color: deeppink;
+}
+
 .footer-center {
   color:goldenrod;
   font-weight: bold;
@@ -19,6 +23,7 @@ body {
 .titleStyle {
   text-align: center;
   background-color: azure;
+  padding: 2vw;
 }
 
 .vspace {
