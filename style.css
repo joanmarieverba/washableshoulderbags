@@ -16,13 +16,30 @@ body {
   text-align: center;
 }
 
+.imgsize {
+  width: 200px;
+  height: 250px;
+}
+
+.lheight {
+  line-height: 1.4;
+}
+
 .lmargin {
   margin-left: 2vw;
 }
 
-.imgsize {
-  width: 200px;
-  height: 250px;
+. noMargin {
+  margin: 0;
+}
+
+.noPadding {
+  padding: 0;
+}
+
+.noVPadding {
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .titleStyle {
