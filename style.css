@@ -21,9 +21,19 @@ body {
   height: 250px;
 }
 
+.imgsize2 {
+  width: 150px;
+  height: 250px;
+}
+
 .lheight {
   line-height: 1.4;
 }
+
+.lheight2 {
+  line-height: 1.6;
+}
+
 
 .lmargin {
   margin-left: 2vw;
