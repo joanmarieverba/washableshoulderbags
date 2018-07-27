@@ -1,9 +1,18 @@
 body {
   font-family: Roboto;
+  background: url('./images/fabric.jpg'); 
 }
 
 .btn {
   border-radius: 0;
+}
+
+.caption {
+  font-weight: bold;
+  color: midnightblue;
+  background-color: azure;
+  width: 12vw;
+  text-align: center;
 }
 
 .cpink {
@@ -11,9 +20,10 @@ body {
 }
 
 .footer-center {
-  color:goldenrod;
+  color:midnightblue;
   font-weight: bold;
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .imgsize {
@@ -79,7 +89,7 @@ body {
 
 .titleStyle {
   text-align: center;
-  background-color: azure;
+  background-color: powderblue;
   padding: 2vw;
 }
 
