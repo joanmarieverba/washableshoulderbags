@@ -57,6 +57,16 @@ body {
   padding-bottom: 0;
 }
 
+.panel > .panel-info {
+    background-image: none;
+    background-color: dodgerblue; 
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-align: center;  
+}
+
 .titleStyle {
   text-align: center;
   background-color: azure;
