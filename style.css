@@ -26,6 +26,11 @@ body {
   height: 250px;
 }
 
+.imgsize3 {
+  width: 150px;
+  height: 300px;
+}
+
 .lheight {
   line-height: 1.4;
 }
